@@ -1,0 +1,30 @@
+Entidades - tudo que é importante para o ATO do processo, tudo que é necessário pra ACONTECER.
+
+Cardinalidades - número de interações que as ENTIDADES terão ENTRE SI.
+
+	*ex: n:1 / 1:1 / n:n 			
+	PRIMEIRO MINIMO PARA ACONTECER : SEGUNDO MAXIMO PARA ACONTECER
+
+Começamos exemplificar contrução de BANCO, só que em FLUXO
+
+Pesquisar INDEX no banco
+
+RELACIONE TABELA A COM TABELA B 
+A -> B
+A <- B
+
+
+
+FAZER >>>>
+CURSOS
+ALUNOS
+TURMA
+PROFESSORES
+MATERIAS
+
+
+
+
+
+
+
